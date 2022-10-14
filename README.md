@@ -18,7 +18,7 @@ dispersion of places to go, most individuals who choose to live in the countrysi
 Suburbia takes it's place in the center.
 
 ### Chart
-![Chart](https://github.com/Jelsik/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+![Chart](https://github.com/Jelsik/PyBer_Analysis/blob/main/Analysis/SummaryDF.PNG)
 The graph tells a general story of the profitiabilty of PyBer in different areas. However, when one looks into the specific
 details, a more complex story develops. Though the total fare of suburban rides may be half the size of urban ones, the total
 number of rides from suburban areas is less than half the number of rides in the urban areas. The average fare of a suburban
